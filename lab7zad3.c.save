@@ -1,0 +1,14 @@
+#include<stdio.h>
+int main()
+{
+int kodAscii= fgetc( stdin );
+char litera;
+if(kodAscii
+ char wiersz[ 2 ];
+    fgets( wiersz, 2, stdin );
+int liczbaASCII = wiersz;
+    printf( "Wczytany tekst: %s\n", wiersz );
+    return 0;
+
+return 0;
+}
